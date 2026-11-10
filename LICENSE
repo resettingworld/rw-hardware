@@ -1,0 +1,24 @@
+CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P-2.0)
+
+Copyright (c) 2026 Resetting World Contributors
+
+This hardware design, bill of materials (BOM), 3D CAD models, schematics,
+and associated documentation are licensed under the CERN Open Hardware
+Licence Version 2 - Permissive (CERN-OHL-P-2.0).
+
+Full license text: https://ohwr.org/cern_ohl_p_v2.txt
+
+Summary of rights and conditions:
+- You may use, copy, modify, make, and distribute physical hardware and
+  documentation commercially or non-commercially.
+- Modified designs distributed to third parties must retain copyright notices,
+  provide attribution to Resetting World, and state clearly any modifications made.
+- Auxiliary software utilities, scripts, and firmware included in this
+  repository are dual-licensed under the MIT License unless otherwise noted.
+
+DISCLAIMER OF LIABILITY:
+THE HARDWARE DESIGNS AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, ELECTRICAL HAZARDS, OR OTHER LIABILITY ARISING FROM ASSEMBLY OR USE.
